@@ -1,4 +1,4 @@
-# Site settings
+# Site settings 1
 baseURL = "/"
 languageCode = "en-us"
 title = "The DevOps Toolkit Series"
